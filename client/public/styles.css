@@ -93,7 +93,6 @@ body {
 }
 
 #profilepic{
- 
     border-color: blue;
     border-radius: 40%;
     padding: 10%;
@@ -107,4 +106,8 @@ body {
     height: 2.5rem;
     color: #ccc;
     position: -webkit-sticky;
+}
+
+.login_error{
+    color: #ff0000;
 }
