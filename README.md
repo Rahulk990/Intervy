@@ -45,9 +45,25 @@ This is a code repository for a simple _self analysis_ website for any student w
 
 ## _Screenshots_
 
+* Progress Charts
+ 
+![Dashboard](/Screenshots/Dashboard.jpg "Dashboard")
 
+* Company-wise categorization of coding questions
 
+![Companies](/Screenshots/Companies.jpg "Company-wise Categorization")
 
+* Topic-wise categorization of coding questions
+
+![Topics](/Screenshots/Topics.jpg "Topic-wise Categorization")
+
+* Company page with charts
+
+![CompanyPage](/Screenshots/CompanyPage.jpg "Company Page")
+
+* Topic page with Charts
+
+![TopicPage](/Screenshots/TopicPage.jpg "Topic Page")
 
 ## _Future Considerations_
 
@@ -55,10 +71,9 @@ This is a code repository for a simple _self analysis_ website for any student w
 - Various other charts (like Daily progress, coding streak) can be included
 - Machine Learning models can be used to suggest questions and predict progress
 
-
 ## _Issues_
 
-- There's some http post request error while Sign In/ Sign Up
+- There's some http post request error while SignIn/ SignUp
 - Extracting Data from other coding platforms without APIs
 
 > And of course, Intervy is an open source project with a [public repository] on GitHub, anyone can contribute.
