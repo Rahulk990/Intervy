@@ -10,17 +10,13 @@ This is a code repository for a simple _self analysis_ website for any student w
     - [Frontend](#frontend)
     - [Backend](#backend)
     - [Others](#others)
+  - [Screenshots](#screenshots)
   - [Future Considerations](#future-considerations)
   - [Issues](#issues)
 
 ## _Current Features_
 
 - Displays various progress Charts based on user's performance
-
-
-<img src="Screenshots/Companies.jpg" border-radius="20px">
-
-
 - Good set of problems from various websites like GfG, Leetcode 
 - Topic-wise categorization of coding problems with percentage completion
 - Company-wise categorization of coding problems with percentage completion
@@ -47,12 +43,21 @@ This is a code repository for a simple _self analysis_ website for any student w
 - [Vs Code] - Awesome code editor
 - [Heroku] - Free Website Deployment
 
+## _Screenshots_
+
+* Company-wise categorization of coding questions
+
+![Companies](/Screenshots/Companies.jpg "Company-wise Categorization")
+
+* Topic-wise categorization of coding questions
+
+![Topics](/Screenshots/Topics.jpg "Topic-wise Categorization")
+
 ## _Future Considerations_
 
 - Performance on more coding platforms can be included like GfG, InterviewBit
 - Various other charts (like Daily progress, coding streak) can be included
 - Machine Learning models can be used to suggest questions and predict progress
-
 
 ## _Issues_
 
