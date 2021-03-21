@@ -10,13 +10,17 @@ This is a code repository for a simple _self analysis_ website for any student w
     - [Frontend](#frontend)
     - [Backend](#backend)
     - [Others](#others)
-  - [Screenshots](#screenshots)
   - [Future Considerations](#future-considerations)
   - [Issues](#issues)
 
 ## _Current Features_
 
 - Displays various progress Charts based on user's performance
+
+
+<img src="Screenshots/Companies.jpg" border-radius="20px">
+
+
 - Good set of problems from various websites like GfG, Leetcode 
 - Topic-wise categorization of coding problems with percentage completion
 - Company-wise categorization of coding problems with percentage completion
@@ -43,12 +47,6 @@ This is a code repository for a simple _self analysis_ website for any student w
 - [Vs Code] - Awesome code editor
 - [Heroku] - Free Website Deployment
 
-## _Screenshots_
-
-
-
-
-
 ## _Future Considerations_
 
 - Performance on more coding platforms can be included like GfG, InterviewBit
@@ -58,7 +56,7 @@ This is a code repository for a simple _self analysis_ website for any student w
 
 ## _Issues_
 
-- There's some http post request error while Sign In/ Sign Up
+- There's some http post request error while SignIn/ SignUp
 - Extracting Data from other coding platforms without APIs
 
 > And of course, Intervy is an open source project with a [public repository] on GitHub, anyone can contribute.
