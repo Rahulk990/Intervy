@@ -2,6 +2,18 @@
 
 This is a code repository for a simple _self analysis_ website for any student who wants to track his performance while preparaing for the interviews. The site is currently hosted [here](https://intervy.herokuapp).
 
+**Table of Contents**  
+
+- [Intervy: Self Analysis Website](#intervy-self-analysis-website)
+  - [Current Features](#current-features)
+  - [Frameworks and Tools](#frameworks-and-tools)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+    - [Others](#others)
+  - [Screenshots](#screenshots)
+  - [Future Considerations](#future-considerations)
+  - [Issues](#issues)
+
 ## _Current Features_
 
 - Displays various progress Charts based on user's performance
@@ -10,15 +22,7 @@ This is a code repository for a simple _self analysis_ website for any student w
 - Company-wise categorization of coding problems with percentage completion
 - Shows the chances of clearing the Company's coding round
 
-## _Future Considerations_
-
-- Performance on more coding platforms can be included like GfG, InterviewBit
-- Various other charts (like Daily progress, coding streak) can be included
-- Machine Learning models can be used to suggest questions and predict progress
-
-## _Tech_
-
-Various frameworks and packages used to create the website:
+## _Frameworks and Tools_
 
 ### Frontend
 
@@ -39,16 +43,25 @@ Various frameworks and packages used to create the website:
 - [Vs Code] - Awesome code editor
 - [Heroku] - Free Website Deployment
 
+## _Screenshots_
+
+
+
+
+
+## _Future Considerations_
+
+- Performance on more coding platforms can be included like GfG, InterviewBit
+- Various other charts (like Daily progress, coding streak) can be included
+- Machine Learning models can be used to suggest questions and predict progress
+
+
 ## _Issues_
 
 - There's some http post request error while Sign In/ Sign Up
 - Extracting Data from other coding platforms without APIs
 
-And of course, Intervy is open source with a [public repository] on GitHub, anyone can contribute.
-
-## License
-
-MIT
+> And of course, Intervy is an open source project with a [public repository] on GitHub, anyone can contribute.
 
 [//]: #
    [ReactJs]: <https://reactjs.org/>
