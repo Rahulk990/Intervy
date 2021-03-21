@@ -45,6 +45,10 @@ This is a code repository for a simple _self analysis_ website for any student w
 
 ## _Screenshots_
 
+* Progress Charts
+ 
+![Dashboard](/Screenshots/Dashboard.jpg "Dashboard")
+
 * Company-wise categorization of coding questions
 
 ![Companies](/Screenshots/Companies.jpg "Company-wise Categorization")
@@ -52,6 +56,14 @@ This is a code repository for a simple _self analysis_ website for any student w
 * Topic-wise categorization of coding questions
 
 ![Topics](/Screenshots/Topics.jpg "Topic-wise Categorization")
+
+* Company page with charts
+
+![CompanyPage](/Screenshots/CompanyPage.jpg "Company Page")
+
+* Topic page with Charts
+
+![TopicPage](/Screenshots/TopicPage.jpg "Topic Page")
 
 ## _Future Considerations_
 
