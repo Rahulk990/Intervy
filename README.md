@@ -21,6 +21,7 @@ This is a code repository for a simple _self analysis_ website for any student w
 - Topic-wise categorization of coding problems
 - Company-wise categorization of coding problems
 - Shows the chances of clearing the Company's coding round
+- Custom Authentication based on Json Web Tokens
 
 ## _Frameworks and Tools_
 
