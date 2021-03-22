@@ -1,6 +1,6 @@
 # Intervy: Self Analysis Website
 
-This is a code repository for a simple _self analysis_ website for any student who wants to track his performance while preparaing for the interviews. The site is currently hosted [here](https://intervy.herokuapp).
+This is a code repository for a simple _self analysis_ website for any student who wants to track his performance while preparaing for the interviews. The site is currently hosted [here](https://intervy.herokuapp.com).
 
 **Table of Contents**  
 
