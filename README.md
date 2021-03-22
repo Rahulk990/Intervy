@@ -18,8 +18,8 @@ This is a code repository for a simple _self analysis_ website for any student w
 
 - Displays various progress Charts based on user's performance
 - Good set of problems from various websites like GfG, Leetcode 
-- Topic-wise categorization of coding problems with percentage completion
-- Company-wise categorization of coding problems with percentage completion
+- Topic-wise categorization of coding problems
+- Company-wise categorization of coding problems
 - Shows the chances of clearing the Company's coding round
 
 ## _Frameworks and Tools_
