@@ -1,6 +1,6 @@
 # Intervy: Self Analysis Website
 
-Intervy is a simple _self analysis_ website for any student who wants to track his performance while preparaing for the interviews. It is common that the students practice coding on various platforms and finally, end up doing the same set of questions on all the platforms. To deal with this, the site integrates the questions from various platforms to help students track their actual progress. The site is currently hosted [here](https://intervy.herokuapp.com).
+Intervy is a simple _self analysis_ website for any student who wants to track his performance while preparaing for the interviews. It is common that the students practice coding on various platforms and finally, end up doing the same set of questions on all the platforms. To deal with this, the site integrates the questions from various platforms to help students track their actual progress.
 
 **Table of Contents**  
 
